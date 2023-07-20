@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>home page</title>
+     <style>
+       .div{
+        height: 500px;
+        width: 350px;
+        border:solid black 1px ;
+        background-color: antiquewhite;
+        padding-top: 15px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        padding-right: 10px;
+        margin-top:100px;
+        border-radius: 30px;
+        font-size: larger;
+        box-shadow:gray 2px 2px 2px 2px;
+       }
+
+       .img{
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+       }
+       .b{
+        font-size: 20px;
+       }
+     </style>
+</head>
+<body><center>
+   
+   <div class="div">
+    <b class="b">Welcome To ICP</b><br/><br/>
+    <img src="beautiful-cascade-environment-460621.jpg" class="img" /><br/><br/>
+    <b><i>Name:- Tupe Dattatray</i></b><br/><br/>
+    <b><i>College:- RSMDP</i></b><br/><br/>
+    <b><i>STD:- BBA(CA)</i></b><br/><br/>
+    <b><i>Date of birth:- 25-10-2001</i></b><br/><br/>
+    <b><i>Mo:-8788861275</i></b><br/><br/>
+    <b><i>Email Id:- dattatupe77@gmail.com</i></b><br/><br/>
+    <b><i>Address:-Jatap Tal:-Rahuri Dist:-A Nagar</i></b>
+
+   </div> 
+   
+</center>
+</body>
+</html>
